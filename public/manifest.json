@@ -1,0 +1,17 @@
+{
+    "short_name": "Todo App",
+    "name": "My Todo App",
+    "icons": [
+      {
+        "src": "/icons/Todo.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      }
+    ],
+    "start_url": ".",
+    "id":"/",
+    "background_color": "#3367D6",
+    "display": "standalone",
+    "theme_color": "#3367D6",
+    "description": "My todo app using mui."
+}
